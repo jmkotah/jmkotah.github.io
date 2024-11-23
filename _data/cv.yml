@@ -42,7 +42,7 @@
       year: 2017-2022
       description:
         - >
-          Supervisors: dr. Aniko Korosi, PhD, prof. dr. Paul J. Lucassen, PhD 
+          Supervisors: dr. Aniko Korosi, PhD, prof. dr. Paul J. Lucassen, PhD
         - >
           <b>Thesis</b>: <u>Age-dependent impact of early-life stress on glia and synapses: Substrates for increased risk for Alzheimer’s disease</u>
         - >
@@ -134,7 +134,7 @@
     - title: Imaging
       items:
         - Light microscopy
-        - Epifluorescent microscopy 
+        - Epifluorescent microscopy
         - Confocal microscopy
     - title: Data analysis in R
       items:
@@ -146,8 +146,7 @@
     - title: Data analysis in Python
       items:
         - Analyze single cell/nucleus RNA sequencing data (scanpy)
-        - Analyze spatial transcriptomics data (squidpy)
-        
+        - Analyze spatial transcriptomics data (squidpy)  
 
 - title: Languages
   type: list
