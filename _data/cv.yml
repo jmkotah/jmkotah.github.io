@@ -29,12 +29,14 @@
       institution: Charité Universitätsmedizin Berlin, DE
       year: 2015-2016
       description:
-        - Year 1 of the <a href="https://www.neurasmus.u-bordeaux.fr/">Erasmus Mundus Neurasmus Joint Masters’ Program in Neuroscience</a>
-    - title: MSc (Res) Neurosciences, <i>cum laude</i>
+        - Year 1 of the <a href="https://www.neurasmus.u-bordeaux.fr/">Erasmus Mundus Neurasmus Joint Masters’ Program in Neuroscience</a>, Track 4
+        - More information about the Charité's <a href ="https://medical-neurosciences.charite.de/en/">MedNeuro</a> program
+    - title: MSc (Research) Neurosciences, <i>cum laude</i>
       institution: Vrije Universiteit Amsterdam, NL
       year: 2016-2017
       description:
-        - Year 2 of the <a href="https://www.neurasmus.u-bordeaux.fr/">Erasmus Mundus Neurasmus Joint Masters’ Program in Neuroscience</a>
+        - Year 2 of the <a href="https://www.neurasmus.u-bordeaux.fr/">Erasmus Mundus Neurasmus Joint Masters’ Program in Neuroscience</a>, Track 4
+        - More information about the VU's <a href="https://vu.nl/en/education/master/neurosciences">Neuroscience</a> program
     - title: PhD candidate
       institution: University of Amsterdam, NL
       year: 2017-2022
@@ -136,7 +138,7 @@
         - Confocal microscopy
     - title: Data analysis in R
       items:
-        - Data analysis and visualization with packages such as dplyr, tidyr, and ggplot2.
+        - Data analysis and visualization with packages such as dplyr, tidyr, and ggplot2
         - Write custom R functions and <a href="https://github.com/jmkotah/antiboydy">packages</a>
         - Analyze bulk RNA sequencing data (DeSeq2, EdgeR)
         - Analyze single cell/nucleus RNA sequencing data (Seurat)
