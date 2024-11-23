@@ -146,7 +146,7 @@
     - title: Data analysis in Python
       items:
         - Analyze single cell/nucleus RNA sequencing data (scanpy)
-        - Analyze spatial transcriptomics data (squidpy)  
+        - Analyze spatial transcriptomics data (squidpy)
 
 - title: Languages
   type: list
