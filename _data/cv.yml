@@ -141,7 +141,7 @@
         - Data analysis and visualization with packages such as dplyr, tidyr, and ggplot2
         - Write custom R functions and <a href="https://github.com/jmkotah/antiboydy">packages</a>
         - Analyze bulk RNA sequencing data (DeSeq2, EdgeR)
-        - Analyze single cell/nucleus RNA sequencing data (Seurat)
+        - Analyze single cell/nucleus RNA sequencing data (Seurat), e.g. <a href="https://www.cell.com/immunity/fulltext/S1074-7613(24)00513-2">here</a>
         - Make <a href="https://amsterdamstudygroup.shinyapps.io/ES_Synaptosome_Proteomics_Visualizer/">shiny apps</a> to visualize proteomics data
     - title: Data analysis in Python
       items:
