@@ -103,6 +103,10 @@
           Obtained a Young Talent grant from <a href="https://msresearch.nl/">Stichting MS Research</a> to carry out a six-week research exchange at the Chotima Böttcher lab at the Charité in Berlin, DE
         - >
           <a href="https://msresearch.nl/ms-onderzoek/onderzoek/veranderingen-van-microglia-in-ms-laesies/">More information (in Dutch)</a>
+    - year: 2025-2027
+      items:
+        - >
+          Obtained an Early Career Grant from <a href="https://www.alzheimer-nederland.nl/">Alzheimer Nederland</a> to carry out a two-year project investigating shared microglial signatures across dementias.
 
 - title: Research Interests
   type: nested_list
@@ -115,6 +119,7 @@
     - title: Neurodegenerative diseases from postmortem human samples
       items:
         - Using <a href="https://pubmed.ncbi.nlm.nih.gov/39501035/">spatial transcriptomics</a> to study lesion progression in multiple sclerosis
+        - Creating analysis pipelines to study neurodegenerative diseases using <a href="https://www.nature.com/articles/s42003-025-08518-6">single cell spatial transcriptomics</a>
 
 - title: Research skills
   type: nested_list
@@ -142,11 +147,12 @@
         - Write custom R functions and <a href="https://github.com/jmkotah/antiboydy">packages</a>
         - Analyze bulk RNA sequencing data (DeSeq2, EdgeR)
         - Analyze single cell/nucleus RNA sequencing data (Seurat), e.g. <a href="https://www.cell.com/immunity/fulltext/S1074-7613(24)00513-2">here</a>
+        - Analyze 10x Visium <a href="https://www.nature.com/articles/s41593-024-01765-6">spatial transcriptomics data</a>
         - Make <a href="https://amsterdamstudygroup.shinyapps.io/ES_Synaptosome_Proteomics_Visualizer/">shiny apps</a> to visualize proteomics data
     - title: Data analysis in Python
       items:
         - Analyze single cell/nucleus RNA sequencing data (scanpy)
-        - Analyze spatial transcriptomics data (squidpy)
+        - Analyze 10x Xenium spatial transcriptomics data (squidpy), e.g. <a href="https://www.nature.com/articles/s42003-025-08518-6">here</a>
 
 - title: Languages
   type: list
